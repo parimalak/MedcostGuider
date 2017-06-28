@@ -1,9 +1,6 @@
 # MedcostGuider
 a tool to compare medical procedures costs in geographic location
 
-# MedcostGuider
-a tool to compare medical procedures costs in geographic location
-
 #  Motivation
 #  Pipeline
    ![alt text](https://github.com/parimalak/MedcostGuider/blob/master/img/pipeline.PNG "Data Pipeline")
