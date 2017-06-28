@@ -6,7 +6,7 @@ a tool to compare medical procedures costs in geographic location
 
 #  Motivation
 #  Pipeline
-   ![alt text](https://github.com//parimalak/MedcostGuider/img/pipeline.JPG "Data Pipeline")
+   ![alt text](https://github.com/parimalak/MedcostGuider/blob/master/img/pipeline.PNG "Data Pipeline")
 #  Github Repo structure
 #  Prerequisites
 #  Resources
