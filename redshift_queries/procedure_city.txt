@@ -1,0 +1,4 @@
+select * from hospprocoder 
+where proceduredescription = '3-D RADIOTHERAPY PLAN' and 
+city = 'BATH' and state ='NY'order by state,year limit 10;
+
