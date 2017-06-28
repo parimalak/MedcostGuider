@@ -1,0 +1,5 @@
+dbname: claims
+port: 5439
+user: parimala
+host: parimala-killada-redshift.crcreejo1v3w.us-east-1.redshift.amazonaws.com
+password: Stack406
